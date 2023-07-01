@@ -29,7 +29,7 @@ def main():
 
 
 def load_model():
-    model = tf.keras.models.load_model('model/VGG19/model_test.tflite')
+    model = tf.keras.models.load_model('model/VGG19/model.epoch06-loss0.34.h5')
     return model
 
 
