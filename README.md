@@ -3,8 +3,8 @@ EYE2
 WELCOME TO EYE DISEASE CLASSIFICATION
 
 ## Description:
-This is an eye disease classification system that allows users to upload retinal images and perform predictions.
-The system can predict the following classes: Cataracts, Diabetic Retinopathy, Glaucoma, and Normal.
+- This is an eye disease classification system that allows users to upload retinal images and perform predictions.
+- The system can predict the following classes: Cataracts, Diabetic Retinopathy, Glaucoma, and Normal.
 
 
 ## Procedure
